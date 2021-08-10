@@ -9,10 +9,10 @@
 #### Foram utilizados 3 diferentes algoritmos: Naive Bayes, Regressão Logística e Suport Vector Machine. Ao final, foi realizado uma comparação no desempenho de acertos dos 3 algoritmos.
 
 * ## Regressão
-#### **Escrever um pouco sobre o que foi feito de maneira objetiva**
+#### É proposto, nesse módulo, que seja calculado o preço ideal de um plano de saúde para um cliente levando em consideração suas necessidades. Foi utilizado o algoritmo de Regressão Linear para resolver o problema e, como conteúdo adicional, foram apresentados os algoritmos de Regressão Polinomial e regressão com Árvore de Decisão.
 
 * ## Regras de Associação
 #### Para esse módulo, foram criadas regras que auxiliam no combate do crime no Brasil. Para isso, a solução foi desenvolvida na linguagem Python com o algoritmo Apriori.
 
 * ## Clustering (Agrupamento)
-#### **Escrever um pouco sobre o que foi feito de maneira objetiva**
+#### No módulo de Agrupamento, foram identificados os três principais problemas de saúde que causam a ausência de colaboradores em ambiente de trabalho utilizando uma [base de dados sobre absentismo](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work). Em seguida, os colaboradores que apresentaram estas razões foram agrupados utilizando o algoritmo K-Means.
