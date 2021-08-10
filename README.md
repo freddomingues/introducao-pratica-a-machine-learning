@@ -1,6 +1,6 @@
-# Curso Introdução Prática à Machine Learning
+# Curso: **Introdução Prática à Machine Learning**
 
-#### Esse repositório tem a finalidade de armazenar os códigos produzidos no curso **Introdução Prática à Machine Learning,** minstrado por mim e pela [Victoria Martins](https://github.com/victoriamartins), sob orientação dos professores [José Merlin](https://github.com/merlinuenp) e Daniela.
+#### Esse repositório tem a finalidade de armazenar os códigos produzidos no curso **Introdução Prática à Machine Learning,** minstrado por mim e pela [Victoria Martins](https://github.com/victoriamartins), sob orientação do Prof. Me. [José Merlin](https://github.com/merlinuenp) e da Profa. Dra. Daniela.
 #### O curso abordou de maneira introdutória e prática as principais classes de problemas de machine learning, tais como: classificação, regressão, regras de associação e clustering.
 #### Os códigos e os datasets utilizados em cada módulo podem ser acessados em suas respectivas pastas acima.
 
